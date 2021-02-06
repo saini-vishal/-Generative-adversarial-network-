@@ -16,6 +16,3 @@
  <br/>
  As it can be seen that the results are nearly identical and not significantly differentiable with the human eye.
  With a few more epochs training the results can be improved.
- 
- The webapp for the following project is deployed on <a href="http://18.217.205.147:5000/">Amazon EC2</a>.
- Check it out!
